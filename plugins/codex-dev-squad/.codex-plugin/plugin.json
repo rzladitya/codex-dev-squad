@@ -1,0 +1,50 @@
+{
+  "name": "codex-dev-squad",
+  "version": "0.1.0",
+  "description": "A GitHub-centered, Paper-powered AI software squad for planning, designing, building, testing, and releasing small production SaaS products.",
+  "author": {
+    "name": "Codex",
+    "email": "",
+    "url": ""
+  },
+  "homepage": "",
+  "repository": "",
+  "license": "MIT",
+  "keywords": [
+    "software-development",
+    "ai-agents",
+    "saas",
+    "github",
+    "paper",
+    "fastapi",
+    "nextjs"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "apps": "./.app.json",
+  "interface": {
+    "displayName": "Codex Dev Squad",
+    "shortDescription": "A role-based AI squad for production SaaS delivery.",
+    "longDescription": "Codex Dev Squad packages Research, PM, UI/UX, Frontend, Python Backend, QA, and DevOps operating procedures into one Codex plugin. It is designed around GitHub for roadmap/backlog/PR collaboration, Paper for UI/UX design handoff, Next.js for frontend work, FastAPI for Python backend work, Playwright/Pytest for QA, and Docker/GitHub Actions for releases.",
+    "developerName": "Codex",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive",
+      "Write",
+      "Code",
+      "MCP"
+    ],
+    "websiteURL": "https://github.com/",
+    "privacyPolicyURL": "https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement",
+    "termsOfServiceURL": "https://docs.github.com/en/site-policy/github-terms/github-terms-of-service",
+    "defaultPrompt": [
+      "Run Codex Dev Squad discovery for this SaaS idea and produce a product brief.",
+      "Turn this feature request into GitHub-ready user stories, UI needs, API contract, and QA criteria.",
+      "Use the Codex Dev Squad feature workflow to plan and build this production-ready feature."
+    ],
+    "brandColor": "#111827",
+    "composerIcon": "./assets/codex-dev-squad.svg",
+    "logo": "./assets/codex-dev-squad.svg",
+    "screenshots": []
+  }
+}

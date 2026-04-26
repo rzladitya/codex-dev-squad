@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "codex-dev-squad": {
+      "command": "python",
+      "args": [
+        "./scripts/mcp_server.py"
+      ],
+      "note": "Local stdio MCP server exposing Codex Dev Squad roles, workflows, and artifact templates."
+    }
+  }
+}
