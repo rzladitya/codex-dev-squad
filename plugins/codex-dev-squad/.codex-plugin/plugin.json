@@ -3,12 +3,12 @@
   "version": "0.1.0",
   "description": "A GitHub-centered, Paper-powered AI software squad for planning, designing, building, testing, and releasing small production SaaS products.",
   "author": {
-    "name": "Codex",
+    "name": "Rizal Aditya",
     "email": "",
-    "url": ""
+    "url": "https://github.com/rzladitya"
   },
-  "homepage": "",
-  "repository": "",
+  "homepage": "https://github.com/rzladitya/codex-dev-squad",
+  "repository": "https://github.com/rzladitya/codex-dev-squad",
   "license": "MIT",
   "keywords": [
     "software-development",
@@ -26,7 +26,7 @@
     "displayName": "Codex Dev Squad",
     "shortDescription": "A role-based AI squad for production SaaS delivery.",
     "longDescription": "Codex Dev Squad packages Research, PM, UI/UX, Frontend, Python Backend, QA, and DevOps operating procedures into one Codex plugin. It is designed around GitHub for roadmap/backlog/PR collaboration, Paper for UI/UX design handoff, Next.js for frontend work, FastAPI for Python backend work, Playwright/Pytest for QA, and Docker/GitHub Actions for releases.",
-    "developerName": "Codex",
+    "developerName": "Rizal Aditya",
     "category": "Productivity",
     "capabilities": [
       "Interactive",
@@ -34,7 +34,7 @@
       "Code",
       "MCP"
     ],
-    "websiteURL": "https://github.com/",
+    "websiteURL": "https://github.com/rzladitya/codex-dev-squad",
     "privacyPolicyURL": "https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement",
     "termsOfServiceURL": "https://docs.github.com/en/site-policy/github-terms/github-terms-of-service",
     "defaultPrompt": [
